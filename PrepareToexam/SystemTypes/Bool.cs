@@ -4,6 +4,7 @@
     {
         // Inheritance Object -> ValueType -> Boolean.
         // Aliase is bool.
+        // Size 1 byte 
         // A Boolean instance can have either of two values: true, or false.
         // Default value is false.
         readonly bool Default;
