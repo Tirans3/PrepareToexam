@@ -54,6 +54,7 @@
     <Compile Include="Shorts.cs" />
     <Compile Include="Uints32.cs" />
     <Compile Include="UInts64.cs" />
+    <Compile Include="Ushorts.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
