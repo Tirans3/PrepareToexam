@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SystemTypes
+﻿namespace SystemTypes
 {
     public class Bool
     {
+        // Inheritance Object -> ValueType -> Boolean.
+        // Aliase is bool.
+        // A Boolean instance can have either of two values: true, or false.
+        // Default value is false.
+        readonly bool Default;
+        readonly bool False = false;
+        readonly bool True = true;
     }
+
 }
