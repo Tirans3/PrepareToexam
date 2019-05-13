@@ -46,6 +46,7 @@
     <Compile Include="Chars.cs" />
     <Compile Include="Decimals.cs" />
     <Compile Include="Doubles.cs" />
+    <Compile Include="Floats.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sbyte.cs" />
   </ItemGroup>
