@@ -51,6 +51,7 @@
     <Compile Include="Longs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sbyte.cs" />
+    <Compile Include="Shorts.cs" />
     <Compile Include="Uints32.cs" />
     <Compile Include="UInts64.cs" />
   </ItemGroup>
