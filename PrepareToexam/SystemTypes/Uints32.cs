@@ -1,6 +1,6 @@
 ﻿namespace SystemTypes
 {
-    class Units
+    class Uints32
     {
         // Inheritance Object -> ValueType ->UInt32.
         // Aliase in C# is uint.
