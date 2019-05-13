@@ -3,7 +3,7 @@
     public class Bool
     {
         // Inheritance Object -> ValueType -> Boolean.
-        // Aliase is bool.
+        // Aliase in C# is bool.
         // Size 1 byte 
         // A Boolean instance can have either of two values: true, or false.
         // Default value is false.
