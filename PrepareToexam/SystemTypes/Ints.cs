@@ -5,7 +5,7 @@
         // Inheritance Object -> ValueType -> Int32.
         // Aliase in C# is int.
         // Size Signed 32-bit integer.
-        // Approximate Range from -2,147,483,648 to 2,147,483,647.
+        // Range from -2,147,483,648 to 2,147,483,647.
         // Default value is 0.
         int intValue1 = 90_946;                               // 90946
         int intValue2 = 0x0001_6342;                          // 90946 
