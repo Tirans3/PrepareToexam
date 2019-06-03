@@ -4,6 +4,10 @@ namespace ValueReferenceNullableType
 {
     public class Vrntypes
     {
+        public void Main()
+        {
+            Console.WriteLine("sasa");
+        }
         struct State
         {
           public  string name;

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemTypes", "SystemTypes\SystemTypes.csproj", "{0D2EC939-DDF4-4029-BA92-0051BC85BA53}"
 EndProject
@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueReferenceNullableType"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{32E68ED8-D07B-4758-AFD2-D23DDB1765E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{58EEB651-0AF5-45E3-BA72-42D39F0D64EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{58EEB651-0AF5-45E3-BA72-42D39F0D64EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{A7B4821A-EA93-4CCA-997A-344FB2CE5DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{58EEB651-0AF5-45E3-BA72-42D39F0D64EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EEB651-0AF5-45E3-BA72-42D39F0D64EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EEB651-0AF5-45E3-BA72-42D39F0D64EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B4821A-EA93-4CCA-997A-344FB2CE5DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B4821A-EA93-4CCA-997A-344FB2CE5DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B4821A-EA93-4CCA-997A-344FB2CE5DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B4821A-EA93-4CCA-997A-344FB2CE5DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
